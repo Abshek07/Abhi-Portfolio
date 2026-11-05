@@ -40,3 +40,6 @@ The SKC website responded during link checking. The supplied GHS portal could no
 ## Interactions
 
 Native CSS 3D playground with a friendly AP robot, laptop, floating shapes and layered platform; Say hello/Build mode/Happy dance controls; pointer-following eyes; drag/keyboard rotation and reset; pause/play; surprise confetti; random project discovery. The active scene uses native CSS transforms and does not require WebGL, models, image downloads, or API keys. OS reduced-motion preferences are respected. Project cards use restrained perspective tilt on pointer devices. Persistent light/dark theme; active-section navigation; accessible mobile menu; search combined with multi-category filters; native modal dialogs (focus trapping, Escape, backdrop dismissal and focus restoration); email copy with failure feedback; direct mail links; real resume download; reduced-motion support. Site content is rendered by React and requires JavaScript.
+
+
+Updated portfolio deployment
